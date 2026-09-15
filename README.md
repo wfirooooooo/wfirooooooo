@@ -69,15 +69,9 @@ I enjoy turning complex infrastructure problems into **simple, automated, observ
 | **Enterprise Engineering** | Experience with **ISO 27001 / MLPS L3 / CMMI 3** environments |
 | **AI Platform** | Designed and implemented cloud-based AI / ML platform capabilities |
 
-> Numbers represent selected results from professional engineering work; individual repositories below demonstrate the underlying engineering practices and implementation patterns.
-
 ---
 
 # 🏗️ Selected Engineering Projects
-
-The projects below are organized around a single engineering lifecycle:
-
-**Infrastructure → Platform → Delivery → Observability → AI Infrastructure**
 
 ### 🛰️ Novbot — SRE / Observability Platform
 
