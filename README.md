@@ -171,8 +171,6 @@ I focus on engineering systems rather than individual tools.
 - 🗣️ Mandarin (Native) · English (Fluent) · Cantonese (Basic)
 - 🔗 [LinkedIn — fair-walker](https://linkedin.com/in/fair-walker)
 
-If you are interested in Cloud / Platform Engineering, SRE, Kubernetes, DevOps, AI Infrastructure or Distributed Systems — feel free to connect.
-
 ---
 
 <p align="center">
