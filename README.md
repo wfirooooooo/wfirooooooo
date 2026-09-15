@@ -1,4 +1,4 @@
-# Hi, I'm Fei Wang 🚀
+# Hi, I'm Fyx WANG 🚀
 
 **Senior SRE / DevOps Engineer · Multi-Cloud & AI Platform** · MSc Data Science & AI (HSUHK, 2026)
 
