@@ -106,20 +106,6 @@ A production-grade infrastructure monitoring platform written in **Rust** — my
 
 ---
 
-### 🎮 Quiz Arena — Real-Time Multiplayer Quiz Platform on AWS
-
-Full-stack platform engineering exercise: a real-time multiplayer quiz system designed to run entirely within the **AWS Free Tier**.
-
-- Local development environment with **12 containers** via Docker Compose
-- AWS deployment via **Terraform**: EC2 + RDS + ElastiCache, one `terraform apply` away
-- Containerized service architecture with health-checked API gateway
-
-**Technologies:** `Python` `Docker` `Terraform` `AWS` `RDS` `ElastiCache`
-
-→ [github.com/wfirooooooo/quiz-arena](https://github.com/wfirooooooo/quiz-arena)
-
----
-
 ### 🔬 Predicting Superconductor Critical Temperatures
 
 Cloud ML coursework project: benchmarked **13 classical & deep models** for superconductor critical temperature prediction.
