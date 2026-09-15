@@ -1,9 +1,9 @@
 # Hi, I'm Fei Wang 🚀
 
-**Senior SRE / DevOps / AI Platform Engineer** · MSc Data Science & AI (HSUHK, 2026)
+**Senior SRE / DevOps Engineer · Multi-Cloud & AI Platform** · MSc Data Science & AI (HSUHK, 2026)
 
-> 10+ years building and operating highly reliable multi-cloud platforms across **telecom** and **finance** — now bridging **platform engineering × AI**.
-> Delivered Kubernetes platforms at **>99.9% SLA**, **70% CI/CD efficiency gains**, **50% cloud cost savings**, and an **end-to-end LLM-powered customer service system** in production.
+> 10+ years designing and operating highly reliable multi-cloud platforms across **telecom** and **finance** — now bridging **platform engineering × AI**.
+> Delivered Kubernetes platforms at **>99.9% SLA**, **50% cloud cost reduction**, **ISO 27001 / MLPS L3 / CMMI 3 compliance programmes**, and was a key contributor to an **LLM-powered intelligent customer service platform** in production.
 
 🌐 Hong Kong · [LinkedIn](https://linkedin.com/in/fair-walker) · fair.walker@gmail.com
 
@@ -14,7 +14,7 @@
 | | Capability | Highlights |
 |---|---|---|
 | 🛡️ | **SRE & Reliability** | SLA/SLO management (>99.9% uptime) · incident response & RCA · high-availability design · capacity planning |
-| ⚙️ | **DevOps & Platform** | Kubernetes cluster design & ops · CI/CD (Jenkins / GitLab / GitHub Actions) · IaC · Bash & Python automation |
+| ⚙️ | **DevOps & Platform** | Kubernetes cluster design & ops · CI/CD (Jenkins / GitLab / GitHub Actions) · IaC (**Terraform**) · Bash & Python automation |
 | ☁️ | **Multi-Cloud** | AWS · Azure · Alibaba Cloud · China Telecom Cloud — compute, networking, identity, storage, serverless, FinOps |
 | 🤖 | **AI & Machine Learning** | 13-model regression benchmark on AWS SageMaker · XGBoost / LightGBM / stacking ensembles · TensorFlow · LLM system delivery · PySpark / Hadoop |
 | 🔐 | **Security & Compliance** | ISO 27001 · MLPS Level 3 · CMMI 3 · DevSecOps · platform security architecture · big-data security & AI governance |
@@ -37,6 +37,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibaba-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
@@ -80,6 +81,7 @@ Data-mining coursework: end-to-end use of classification, clustering and associa
 ![RHCE](https://img.shields.io/badge/RHCE-Red_Hat_Certified_Engineer-EE0000?style=flat&logo=redhat&logoColor=white)
 ![CISP-SSDP](https://img.shields.io/badge/CISP--SSDP-Information_Security_Professional-2E8B57?style=flat)
 ![HCIA-AI](https://img.shields.io/badge/HCIA--AI-Huawei_Certified_AI_Associate-0091DA?style=flat)
+![Gemini](https://img.shields.io/badge/Gemini--Certified-Educator-4285F4?style=flat&logo=google&logoColor=white)
 
 🎓 **MSc Data Science & AI** — The Hang Seng University of Hong Kong · CGPA 3.64/4.0 · Distinguished Graduate Scholarship (Excellence Award, 2026)
 
@@ -103,3 +105,4 @@ Data-mining coursework: end-to-end use of classification, clustering and associa
 - 💼 [LinkedIn — fair-walker](https://linkedin.com/in/fair-walker)
 - 📮 fair.walker@gmail.com
 - 📍 Hong Kong (NT) · Open to Senior SRE / Platform / AI-Infra roles
+- 🗣️ Mandarin (Native) · English (Fluent) · Cantonese (Basic)
